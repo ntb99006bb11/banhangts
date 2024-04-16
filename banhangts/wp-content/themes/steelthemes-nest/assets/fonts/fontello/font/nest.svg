@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2022 by original authors @ fontello.com</metadata>
+<defs>
+<font id="nest" horiz-adv-x="1000" >
+<font-face font-family="nest" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="letter-n" unicode="&#xe800;" d="M500 850c-277 0-500-224-500-500 0-277 224-500 500-500 276 0 500 224 500 500 0 276-224 500-500 500z m0-957v0c-253 0-457 205-457 457 0 252 205 457 457 457 253-1 457-205 457-457 0-252-205-457-457-457z m112 655c-2 0-4 0-6-1-12 0-22-9-22-21v-275l-171 286-3 3-3 3h-4-4-7-4-5l-3-3-2-4v-4c0-1 0-3 0-4 0-1 0-2 0-3v-352c0-11 9-21 21-21 12 0 22 10 22 21v276l172-286c4-6 11-10 19-10h5c10 2 16 11 16 20v353c1 12-9 22-21 22z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>

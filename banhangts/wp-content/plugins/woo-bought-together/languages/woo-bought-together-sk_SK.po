@@ -1,0 +1,644 @@
+# Copyright (C) 2021 WPClever.net
+# This file is distributed under the same license as the WPC Frequently Bought Together for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Frequently Bought Together for WooCommerce 3.4.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woo-bought-"
+"together\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-01-13T08:11:48+00:00\n"
+"PO-Revision-Date: 2021-09-07 12:15+0200\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Domain: woobt\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+"Language: sk\n"
+
+#. Plugin Name of the plugin
+msgid "WPC Frequently Bought Together for WooCommerce"
+msgstr "WPC Frequently Bought Together for WooCommerce"
+
+#. Plugin URI of the plugin
+msgid "https://wpclever.net/"
+msgstr "https://wpclever.net/"
+
+#. Description of the plugin
+msgid "Increase your sales with personalized product recommendations."
+msgstr "Zvýšte svoj predaj pomocou prispôsobených odporúčaní produktov."
+
+#. Author of the plugin
+msgid "WPClever.net"
+msgstr "WPClever.net"
+
+#. Author URI of the plugin
+msgid "https://wpclever.net"
+msgstr "https://wpclever.net"
+
+#: wpc-frequently-bought-together.php:189
+#: wpc-frequently-bought-together.php:200
+msgid "WPC Frequently Bought Together"
+msgstr "WPC Frequently Bought Together"
+
+#: wpc-frequently-bought-together.php:189
+#: wpc-frequently-bought-together.php:1153
+msgid "Bought Together"
+msgstr "Kúpiť spolu"
+
+#. translators: %s is the stars
+#: wpc-frequently-bought-together.php:203
+msgid ""
+"Thank you for using our plugin! If you are satisfied, please reward it a "
+"full five-star %s rating."
+msgstr ""
+"Ďakujeme, že používate náš plugin! Ak ste spokojní, odmeňte ho plným "
+"päťhviezdičkovým hodnotením %s."
+
+#: wpc-frequently-bought-together.php:206
+msgid "Reviews"
+msgstr "Recenzie"
+
+#: wpc-frequently-bought-together.php:208
+#, fuzzy
+msgid "Changelog"
+msgstr "Zoznam zmien"
+
+#: wpc-frequently-bought-together.php:210
+#, fuzzy
+msgid "Discussion"
+msgstr "Chcete sa pripojiť k diskusii?"
+
+#: wpc-frequently-bought-together.php:217
+msgid "How to use?"
+msgstr "Ako používať?"
+
+#: wpc-frequently-bought-together.php:221
+#: wpc-frequently-bought-together.php:737
+msgid "Settings"
+msgstr "Nastavenia"
+
+#: wpc-frequently-bought-together.php:226
+#: wpc-frequently-bought-together.php:738
+msgid "Premium Version"
+msgstr "Premium verzia"
+
+#: wpc-frequently-bought-together.php:230
+msgid "Essential Kit"
+msgstr "Základný  kit"
+
+#: wpc-frequently-bought-together.php:238
+msgid ""
+"When adding/editing the product you can choose Bought Together tab then add "
+"some products with the new price."
+msgstr ""
+"Pri pridávaní/úprave produktu môžete vybrať kartu Kúpené spolu a potom "
+"pridať niektoré produkty s novou cenou."
+
+#: wpc-frequently-bought-together.php:250
+#, fuzzy
+msgid "General"
+msgstr "Všeobecné informácie"
+
+#: wpc-frequently-bought-together.php:254
+#, fuzzy
+msgid "Pricing method"
+msgstr "Nacenenie"
+
+#: wpc-frequently-bought-together.php:259
+#, fuzzy
+msgid "from Sale price"
+msgstr "Cena"
+
+#: wpc-frequently-bought-together.php:263
+#, fuzzy
+msgid "from Regular price "
+msgstr "Cena"
+
+#: wpc-frequently-bought-together.php:266
+msgid ""
+"Calculate prices from the sale price (default) or regular price of products."
+msgstr ""
+"Vypočítajte ceny z predajnej ceny (predvolená) alebo z bežnej ceny produktov."
+
+#: wpc-frequently-bought-together.php:270
+#, fuzzy
+msgid "Default products"
+msgstr "V košíku nie sú žiadne produkty."
+
+#: wpc-frequently-bought-together.php:275
+msgid "Upsells"
+msgstr "Upsells"
+
+#: wpc-frequently-bought-together.php:279
+#, fuzzy
+msgid "Related"
+msgstr "Podobné produkty"
+
+#: wpc-frequently-bought-together.php:283
+#, fuzzy
+msgid "Related & Upsells"
+msgstr "Podobné produkty"
+
+#: wpc-frequently-bought-together.php:287
+msgid "None"
+msgstr "Žiadne"
+
+#: wpc-frequently-bought-together.php:290
+msgid "Default products when don't specified any products."
+msgstr "Predvolené produkty, ak nezadáte žiadne produkty."
+
+#: wpc-frequently-bought-together.php:294
+msgid "Position"
+msgstr "Pozícia"
+
+#: wpc-frequently-bought-together.php:299
+#, fuzzy
+msgid "Above add to cart button"
+msgstr "Pridať do košíka"
+
+#: wpc-frequently-bought-together.php:303
+#, fuzzy
+msgid "Under add to cart button"
+msgstr "Pridať do košíka"
+
+#: wpc-frequently-bought-together.php:307
+#, fuzzy
+msgid "Under the title"
+msgstr "Názov:"
+
+#: wpc-frequently-bought-together.php:311
+#, fuzzy
+msgid "Under the price"
+msgstr "Cena"
+
+#: wpc-frequently-bought-together.php:315
+#, fuzzy
+msgid "Under the excerpt"
+msgstr "Zhrnutie"
+
+#: wpc-frequently-bought-together.php:319
+msgid "Under the meta"
+msgstr "Pod meta"
+
+#: wpc-frequently-bought-together.php:323
+#, fuzzy
+msgid "None (hide it)"
+msgstr "Skryť"
+
+#: wpc-frequently-bought-together.php:326
+msgid "Choose the position to show the products list."
+msgstr "Vyberte pozíciu, na ktorej sa má zobrazovať zoznam produktov."
+
+#: wpc-frequently-bought-together.php:330
+msgid "Exclude unpurchasable"
+msgstr "Vylúčiť nekúpiteľné"
+
+#: wpc-frequently-bought-together.php:333
+#: wpc-frequently-bought-together.php:345
+#: wpc-frequently-bought-together.php:377
+#: wpc-frequently-bought-together.php:392
+#: wpc-frequently-bought-together.php:451
+#: wpc-frequently-bought-together.php:467
+#: wpc-frequently-bought-together.php:485
+#: wpc-frequently-bought-together.php:546
+#: wpc-frequently-bought-together.php:588
+#: wpc-frequently-bought-together.php:603
+#: wpc-frequently-bought-together.php:619
+#: wpc-frequently-bought-together.php:635
+#: wpc-frequently-bought-together.php:651
+msgid "Yes"
+msgstr "Áno"
+
+#: wpc-frequently-bought-together.php:334
+#: wpc-frequently-bought-together.php:349
+#: wpc-frequently-bought-together.php:366
+#: wpc-frequently-bought-together.php:381
+#: wpc-frequently-bought-together.php:396
+#: wpc-frequently-bought-together.php:438
+#: wpc-frequently-bought-together.php:455
+#: wpc-frequently-bought-together.php:471
+#: wpc-frequently-bought-together.php:493
+#: wpc-frequently-bought-together.php:550
+#: wpc-frequently-bought-together.php:592
+#: wpc-frequently-bought-together.php:607
+#: wpc-frequently-bought-together.php:623
+#: wpc-frequently-bought-together.php:639
+#: wpc-frequently-bought-together.php:655
+msgid "No"
+msgstr "Nie"
+
+#: wpc-frequently-bought-together.php:336
+msgid "Exclude unpurchasable products from the list."
+msgstr "Vylúčte zo zoznamu výrobky, ktoré nie je možné zakúpiť."
+
+#: wpc-frequently-bought-together.php:340
+#, fuzzy
+msgid "Show thumbnail"
+msgstr "Náhľad"
+
+#: wpc-frequently-bought-together.php:355
+#, fuzzy
+msgid "Show price"
+msgstr "Zobraziť"
+
+#: wpc-frequently-bought-together.php:359
+msgid "Price"
+msgstr "Cena"
+
+#: wpc-frequently-bought-together.php:362
+msgid "Total"
+msgstr "Spolu"
+
+#: wpc-frequently-bought-together.php:372
+#, fuzzy
+msgid "Show short description"
+msgstr "Popis"
+
+#: wpc-frequently-bought-together.php:387
+msgid "Show plus/minus button"
+msgstr "Zobraziť tlačidlo plus/mínus"
+
+#: wpc-frequently-bought-together.php:399
+msgid "Show the plus/minus button for the quantity input."
+msgstr "Ukážte tlačidlo plus/mínus pre zadanie množstva."
+
+#: wpc-frequently-bought-together.php:403
+msgid "Variations selector"
+msgstr "Volič variácií"
+
+#: wpc-frequently-bought-together.php:408
+msgid "Default"
+msgstr "Predvolené"
+
+#: wpc-frequently-bought-together.php:412
+msgid "Use WPC Variations Radio Buttons"
+msgstr "Použite prepínače variácií WPC"
+
+#: wpc-frequently-bought-together.php:421
+#, fuzzy
+msgid "Link to individual product"
+msgstr "Zoznam produktov"
+
+#: wpc-frequently-bought-together.php:426
+#, fuzzy
+msgid "Yes, open in the same tab"
+msgstr "Otvoriť v rovnakom okne"
+
+#: wpc-frequently-bought-together.php:430
+#, fuzzy
+msgid "Yes, open in the new tab"
+msgstr "Otvoriť novú záložku / okno"
+
+#: wpc-frequently-bought-together.php:434
+msgid "Yes, open quick view popup"
+msgstr "Áno, otvorte kontextové okno rýchleho zobrazenia"
+
+#: wpc-frequently-bought-together.php:446
+#, fuzzy
+msgid "Show \"this item\""
+msgstr "Tento produkt:"
+
+#: wpc-frequently-bought-together.php:458
+msgid "The main product will be listed on the top of the list."
+msgstr "Hlavný produkt bude uvedený v hornej časti zoznamu."
+
+#: wpc-frequently-bought-together.php:462
+#, fuzzy
+msgid "Change image"
+msgstr "Zmeniť"
+
+#: wpc-frequently-bought-together.php:475
+msgid ""
+"Change the main product image when choosing the variation of variable "
+"products."
+msgstr ""
+"Pri výbere variácií variabilných produktov zmeňte hlavný obrázok produktu."
+
+#: wpc-frequently-bought-together.php:480
+#, fuzzy
+msgid "Change price"
+msgstr "Zmeniť"
+
+#: wpc-frequently-bought-together.php:489
+#, fuzzy
+msgid "Yes, custom selector"
+msgstr "Vlastné"
+
+#: wpc-frequently-bought-together.php:500
+msgid ""
+"Change the main product price when choosing the variation or quantity of "
+"products. It uses JavaScript to change product price so it is very dependent "
+"on theme’s HTML. If it cannot find and update the product price, please "
+"contact us and we can help you find the right selector or adjust the JS file."
+msgstr ""
+"Pri výbere variácií alebo množstva produktov zmeňte cenu hlavného produktu. "
+"Na zmenu ceny produktu používa JavaScript, takže je veľmi závislý od HTML "
+"témy. Ak nemôže nájsť a aktualizovať cenu produktu, kontaktujte nás a my vám "
+"pomôžeme nájsť správneho voliča alebo upraviť súbor JS."
+
+#: wpc-frequently-bought-together.php:505
+msgid "Counter"
+msgstr "Počítadlo"
+
+#: wpc-frequently-bought-together.php:510
+#, fuzzy
+msgid "Count the individual products"
+msgstr "Individuálna výška"
+
+#: wpc-frequently-bought-together.php:514
+#, fuzzy
+msgid "Count the product quantities"
+msgstr "Zoznam produktov"
+
+#: wpc-frequently-bought-together.php:518
+msgid "Hide"
+msgstr "Skryť"
+
+#: wpc-frequently-bought-together.php:522
+#, fuzzy
+msgid "Counter on the add to cart button."
+msgstr "Pridať do košíka"
+
+#: wpc-frequently-bought-together.php:527
+#, fuzzy
+msgid "Additional price text"
+msgstr "Cena"
+
+#: wpc-frequently-bought-together.php:530
+#: wpc-frequently-bought-together.php:531
+#: wpc-frequently-bought-together.php:697
+#, fuzzy
+msgid "Additional price:"
+msgstr "Cena"
+
+#: wpc-frequently-bought-together.php:532
+msgid "Leave blank to use the default text and can be translated."
+msgstr ""
+"Ak chcete použiť predvolený text, nechajte pole prázdne a je možné ho "
+"preložiť."
+
+#: wpc-frequently-bought-together.php:537
+#, fuzzy
+msgid "Cart & Checkout"
+msgstr "Pokladňa"
+
+#: wpc-frequently-bought-together.php:541
+#, fuzzy
+msgid "Change quantity"
+msgstr "Počet ks"
+
+#: wpc-frequently-bought-together.php:554
+msgid ""
+"Buyer can change the quantity of associated products or not? If not, the "
+"quantities will sync with the main product."
+msgstr ""
+"Môže kupujúci zmeniť množstvo súvisiacich produktov alebo nie? Ak nie, "
+"množstvá sa synchronizujú s hlavným produktom."
+
+#: wpc-frequently-bought-together.php:559
+#, fuzzy
+msgid "Associated text"
+msgstr "Text"
+
+#. translators: %s is the main product name
+#: wpc-frequently-bought-together.php:564
+#: wpc-frequently-bought-together.php:794
+#: wpc-frequently-bought-together.php:1058
+#, fuzzy
+msgid "(bought together %s)"
+msgstr "%1$s at %2$s"
+
+#. translators: %s is the main product name
+#: wpc-frequently-bought-together.php:566
+msgid ""
+"The text behind associated products. Use \"%s\" for the main product name."
+msgstr "Text za súvisiacimi produktmi. Ako hlavný názov produktu použite „%s“."
+
+#: wpc-frequently-bought-together.php:571
+#: wpc-frequently-bought-together.php:1167
+msgid "Search"
+msgstr "Hľadať"
+
+#: wpc-frequently-bought-together.php:575
+#, fuzzy
+msgid "Search limit"
+msgstr "Vyhľadávanie..."
+
+#: wpc-frequently-bought-together.php:583
+#, fuzzy
+msgid "Search by SKU"
+msgstr "Vyhľadávanie..."
+
+#: wpc-frequently-bought-together.php:598
+#, fuzzy
+msgid "Search by ID"
+msgstr "ID"
+
+#: wpc-frequently-bought-together.php:610
+msgid "Search by ID when only entered the numeric."
+msgstr "Hľadajte podľa ID, ak ste zadali iba číslicu."
+
+#: wpc-frequently-bought-together.php:614
+#, fuzzy
+msgid "Search exact"
+msgstr "Vyhľadávanie..."
+
+#: wpc-frequently-bought-together.php:626
+msgid "Match whole product title or content?"
+msgstr "Chcete priradiť názov alebo obsah celého produktu?"
+
+#: wpc-frequently-bought-together.php:630
+#, fuzzy
+msgid "Search sentence"
+msgstr "Vyhľadávanie..."
+
+#: wpc-frequently-bought-together.php:642
+#, fuzzy
+msgid "Do a phrase search?"
+msgstr "Hľadať..."
+
+#: wpc-frequently-bought-together.php:646
+#, fuzzy
+msgid "Accept same products"
+msgstr "Otvoriť v rovnakom okne"
+
+#: wpc-frequently-bought-together.php:658
+msgid "If yes, a product can be added many times."
+msgstr "Ak áno, výrobok je možné pridať mnohokrát."
+
+#: wpc-frequently-bought-together.php:664
+#, fuzzy
+msgid "Update Options"
+msgstr "Výber možností"
+
+#: wpc-frequently-bought-together.php:703
+msgid "Add to cart"
+msgstr "Pridať do košíka"
+
+#: wpc-frequently-bought-together.php:717
+msgid ""
+"Please select some product options for [name] before adding to the cart."
+msgstr ""
+"Pred vložením do košíka vyberte pre [názov] niekoľko možností produktu."
+
+#: wpc-frequently-bought-together.php:754
+msgid "Support"
+msgstr "Podpora"
+
+#. translators: %s is the count
+#: wpc-frequently-bought-together.php:770
+#, fuzzy
+msgid "Associate (%s)"
+msgstr "%1$s at %2$s"
+
+#: wpc-frequently-bought-together.php:883
+msgid "One of the associated products is unavailable."
+msgstr "Jeden z pridružených produktov je nedostupný."
+
+#. translators: %s is the product name
+#: wpc-frequently-bought-together.php:884
+#: wpc-frequently-bought-together.php:891
+#: wpc-frequently-bought-together.php:898
+#: wpc-frequently-bought-together.php:906
+#: wpc-frequently-bought-together.php:913
+msgid "You cannot add this product to the cart."
+msgstr "Tento produkt nemôžete pridať do košíka."
+
+#. translators: %s is the product name
+#: wpc-frequently-bought-together.php:890
+#, fuzzy
+msgid "\"%s\" is un-purchasable."
+msgstr "%1$s at %2$s"
+
+#. translators: %s is the product name
+#: wpc-frequently-bought-together.php:897
+msgid "You cannot add another \"%s\" to the cart."
+msgstr "Nemôžete pridať ďalšie \"%s\" do košíka."
+
+#. translators: %s is the product name
+#: wpc-frequently-bought-together.php:905
+msgid "\"%s\" does not reach the minimum quantity."
+msgstr "\"%s\" nedosahuje minimálne množstvo."
+
+#. translators: %s is the product name
+#: wpc-frequently-bought-together.php:912
+msgid "\"%s\" passes the maximum quantity."
+msgstr "\"%s\" nedosahuje minimálne množstvo."
+
+#. translators: %s is the keyword
+#: wpc-frequently-bought-together.php:1126
+#, fuzzy
+msgid "No results found for \"%s\""
+msgstr "Výsledky vyhľadávania pre \""
+
+#: wpc-frequently-bought-together.php:1143
+msgid "Add"
+msgstr "Pridať"
+
+#: wpc-frequently-bought-together.php:1145
+#, fuzzy
+msgid "Remove"
+msgstr "Vymazať obrázok"
+
+#: wpc-frequently-bought-together.php:1148
+msgid ""
+"Set a new price using a number (eg. \"49\") or percentage (eg. \"90%\" of "
+"original price)"
+msgstr ""
+"Nastavte novú cenu pomocou čísla (napr. „49“) alebo percenta (napr. „90%“ "
+"pôvodnej ceny)"
+
+#: wpc-frequently-bought-together.php:1148
+#, fuzzy
+msgid "Default quantity"
+msgstr "Počet ks"
+
+#: wpc-frequently-bought-together.php:1169
+#, fuzzy
+msgid "settings"
+msgstr "Nastavenia"
+
+#: wpc-frequently-bought-together.php:1175
+#, fuzzy
+msgid "searching..."
+msgstr "Vyhľadávam..."
+
+#: wpc-frequently-bought-together.php:1177
+msgid "Type any keyword to search"
+msgstr "Zadajte akékoľvek kľúčové slovo, ktoré chcete vyhľadať"
+
+#: wpc-frequently-bought-together.php:1183
+#, fuzzy
+msgid "Selected"
+msgstr ""
+"Zobrazí sa ak vyberiete layout hlavičky, ktorý podporuje menu druhej úrovne"
+
+#: wpc-frequently-bought-together.php:1220
+msgid "Add separately"
+msgstr "Pridať samostatne"
+
+#: wpc-frequently-bought-together.php:1225
+msgid ""
+"If enabled, the associated products will be added as separate items and stay "
+"unaffected from the main product, their prices will change back to the "
+"original."
+msgstr ""
+"Ak je to povolené, súvisiace produkty budú pridané ako samostatné položky a "
+"nebudú ovplyvnené hlavným výrobkom, ich ceny sa zmenia späť na pôvodné."
+
+#: wpc-frequently-bought-together.php:1229
+msgid "Discount"
+msgstr "Zľava"
+
+#: wpc-frequently-bought-together.php:1240
+#, fuzzy
+msgid "Checked all"
+msgstr "Všetko"
+
+#: wpc-frequently-bought-together.php:1244
+#, fuzzy
+msgid "Checked all by default."
+msgstr "Všetko"
+
+#: wpc-frequently-bought-together.php:1248
+#, fuzzy
+msgid "Custom quantity"
+msgstr "Počet ks"
+
+#: wpc-frequently-bought-together.php:1252
+msgid "Allow the customer can change the quantity of each product."
+msgstr "Umožnite zákazníkovi zmeniť množstvo každého produktu."
+
+#: wpc-frequently-bought-together.php:1256
+#, fuzzy
+msgid "Sync quantity"
+msgstr "Počet ks"
+
+#: wpc-frequently-bought-together.php:1260
+msgid "Sync the quantity of the main product with associated products."
+msgstr "Synchronizujte množstvo hlavného produktu s pridruženými produktmi."
+
+#: wpc-frequently-bought-together.php:1264
+#, fuzzy
+msgid "Limit each item"
+msgstr "Tento produkt:"
+
+#: wpc-frequently-bought-together.php:1268
+msgid "Use default quantity as min"
+msgstr "Použiť predvolené množstvo ako min"
+
+#: wpc-frequently-bought-together.php:1280
+#, fuzzy
+msgid "Above text"
+msgstr "Text"
+
+#: wpc-frequently-bought-together.php:1290
+#, fuzzy
+msgid "Under text"
+msgstr "Text"
+
+#: wpc-frequently-bought-together.php:1493
+msgid "This item:"
+msgstr "Tento produkt:"

@@ -1,0 +1,340 @@
+# Copyright (C) 2019 WPC Bought Together for WooCommerce
+# This file is distributed under the same license as the WPC Bought Together for WooCommerce package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Bought Together for WooCommerce\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:"
+"1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-07 12:38+0000\n"
+"PO-Revision-Date: 2019-04-07 12:47+0000\n"
+"Last-Translator: roy <hello@royalmond.com>\n"
+"Language-Team: Türkçe\n"
+"Language: tr_TR\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.1.1"
+
+#: woo-bought-together-premium/index.php:136,
+#: woo-bought-together-premium/index.php:146
+msgid "WPC Bought Together"
+msgstr "WPC Birlikte Alındı"
+
+#: woo-bought-together-premium/index.php:136,
+#: woo-bought-together-premium/index.php:706
+msgid "Bought Together"
+msgstr "Birlikte alındı"
+
+#: woo-bought-together-premium/index.php:149
+msgid ""
+"Thank you for using our plugin! If you are satisfied, please reward it a "
+"full five-star %s rating."
+msgstr ""
+"Eklentimizi kullandığınız için teşekkürler! Eğer memnun kaldıysanız bizi %s "
+"beş yıldız ile ödüllendirin."
+
+#: woo-bought-together-premium/index.php:152
+msgid "Reviews"
+msgstr "Değerlendirmeler"
+
+#: woo-bought-together-premium/index.php:154
+msgid "Changelogs"
+msgstr "Değişiklik kayıtları"
+
+#: woo-bought-together-premium/index.php:156
+msgid "Discussion"
+msgstr "Destek"
+
+#: woo-bought-together-premium/index.php:163
+msgid "How to use?"
+msgstr "Nasıl kullanılır?"
+
+#: woo-bought-together-premium/index.php:167,
+#: woo-bought-together-premium/index.php:470
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: woo-bought-together-premium/index.php:170
+msgid "Premium Support"
+msgstr "Premium Destek"
+
+#: woo-bought-together-premium/index.php:178
+msgid ""
+"When adding/editing the product you can choose Bought Together tab then add "
+"some products with the new price."
+msgstr ""
+"Ürün ekler / düzenlerken, Birlikte Alındı tabını seçebilir sonra da yeni "
+"fiyatıyla bazı ürünler ekleyebilirsiniz. "
+
+#: woo-bought-together-premium/index.php:190
+msgid "General"
+msgstr "Genel"
+
+#: woo-bought-together-premium/index.php:194
+msgid "Position"
+msgstr "Yerleşim"
+
+#: woo-bought-together-premium/index.php:199
+msgid "Before Add to cart button"
+msgstr "Sepete ekle düğmesinden önce"
+
+#: woo-bought-together-premium/index.php:203
+msgid "After Add to cart button"
+msgstr "Sepete ekle butonundan sonra"
+
+#: woo-bought-together-premium/index.php:206
+msgid "Choose the position to show the \"bought together\" list."
+msgstr "Beraber alındı listesinin gösterileceği yeri seçin"
+
+#: woo-bought-together-premium/index.php:210
+msgid "Show thumbnail"
+msgstr "Küçük resmi göster"
+
+#: woo-bought-together-premium/index.php:215,
+#: woo-bought-together-premium/index.php:247,
+#: woo-bought-together-premium/index.php:281,
+#: woo-bought-together-premium/index.php:319,
+#: woo-bought-together-premium/index.php:334,
+#: woo-bought-together-premium/index.php:350,
+#: woo-bought-together-premium/index.php:366
+msgid "Yes"
+msgstr "Evet"
+
+#: woo-bought-together-premium/index.php:219,
+#: woo-bought-together-premium/index.php:236,
+#: woo-bought-together-premium/index.php:251,
+#: woo-bought-together-premium/index.php:270,
+#: woo-bought-together-premium/index.php:285,
+#: woo-bought-together-premium/index.php:323,
+#: woo-bought-together-premium/index.php:338,
+#: woo-bought-together-premium/index.php:354,
+#: woo-bought-together-premium/index.php:370
+msgid "No"
+msgstr "Hayır"
+
+#: woo-bought-together-premium/index.php:225
+msgid "Show price"
+msgstr "Fiyatı göster"
+
+#: woo-bought-together-premium/index.php:229
+msgid "Price"
+msgstr "Fiyat"
+
+#: woo-bought-together-premium/index.php:232
+msgid "Total"
+msgstr "Toplam"
+
+#: woo-bought-together-premium/index.php:242
+msgid "Show short description"
+msgstr "Kısa açıklamayı göster"
+
+#: woo-bought-together-premium/index.php:257
+msgid "Link to individual product"
+msgstr "Bağımsız ürüne link ver"
+
+#: woo-bought-together-premium/index.php:262
+msgid "Yes, open in the same tab"
+msgstr "Evet, aynı tabda aç"
+
+#: woo-bought-together-premium/index.php:266
+msgid "Yes, open in the new tab"
+msgstr "Evet, Yeni internet tabında aç"
+
+#: woo-bought-together-premium/index.php:276
+msgid "Show \"this item\""
+msgstr "Listede Esas ürünü de göster"
+
+#: woo-bought-together-premium/index.php:288
+msgid "The main product will be listed on the top of the list."
+msgstr "Ana ürün listenin başında listelenecektir."
+
+#: woo-bought-together-premium/index.php:292
+msgid "Additional price text"
+msgstr "Ek fiyat mesajı"
+
+#: woo-bought-together-premium/index.php:295,
+#: woo-bought-together-premium/index.php:296,
+#: woo-bought-together-premium/index.php:420
+msgid "Additional price:"
+msgstr "Toplama eklenecek fiyat:"
+
+#: woo-bought-together-premium/index.php:297
+msgid "Leave blank to use the default text and can be translated."
+msgstr "Varsayılan mesajı kullanmak ve çevirmek için boş bırakın."
+
+#: woo-bought-together-premium/index.php:302,
+#: woo-bought-together-premium/index.php:720
+msgid "Search"
+msgstr "Ara"
+
+#: woo-bought-together-premium/index.php:306
+msgid "Search limit"
+msgstr "Arama sınırı"
+
+#: woo-bought-together-premium/index.php:314
+msgid "Search by SKU"
+msgstr "SKU bazında ara"
+
+#: woo-bought-together-premium/index.php:329
+msgid "Search exact"
+msgstr "Tam ara"
+
+#: woo-bought-together-premium/index.php:341
+msgid "Match whole product title or content?"
+msgstr "Tüm ürün başlığı mı yoksa içerik mi eşleştirilsin?"
+
+#: woo-bought-together-premium/index.php:345
+msgid "Search sentence"
+msgstr "Arama cümlesi"
+
+#: woo-bought-together-premium/index.php:357
+msgid "Do a phrase search?"
+msgstr "Cümle araması yap?"
+
+#: woo-bought-together-premium/index.php:361
+msgid "Accept same products"
+msgstr "Aynı ürünleri kabul et"
+
+#: woo-bought-together-premium/index.php:373
+msgid "If yes, a product can be added many times."
+msgstr "Evetse, bir ürün bir kaç kez eklenebilir."
+
+#: woo-bought-together-premium/index.php:378
+msgid "Advance"
+msgstr "İleri"
+
+#: woo-bought-together-premium/index.php:382
+msgid "Method"
+msgstr "Metod"
+
+#: woo-bought-together-premium/index.php:387
+msgid "SESSION"
+msgstr "OTURUM"
+
+#: woo-bought-together-premium/index.php:391
+msgid "COOKIE"
+msgstr "ÇEREZ"
+
+#: woo-bought-together-premium/index.php:394
+msgid ""
+"The method was used to save the product data when buying. Please only try to "
+"switch this option when the default does not work."
+msgstr ""
+"Ürün satın alınırken kullanılan metod. Bu seçeneği lütfen varsayılan "
+"kullanılmazsa değiştirin. "
+
+#: woo-bought-together-premium/index.php:400
+msgid "Update Options"
+msgstr "Güncelleme Seçenekleri"
+
+#: woo-bought-together-premium/index.php:431
+msgid "Please select some product options before adding to the cart."
+msgstr "Sepete eklemeden önce lütfen bazı ürün seçeneklerini belirleyin"
+
+#: woo-bought-together-premium/index.php:450
+msgid "Permissions check failed"
+msgstr "İzin kontrolü başarısız"
+
+#: woo-bought-together-premium/index.php:484
+msgid "Premium support"
+msgstr "Premium Destek"
+
+#: woo-bought-together-premium/index.php:505,
+#: woo-bought-together-premium/index.php:507,
+#: woo-bought-together-premium/index.php:628
+msgid "(bought together %s)"
+msgstr "(%s ile beraber alındı)"
+
+#: woo-bought-together-premium/index.php:580
+msgid "Have an error when adding this product to the cart."
+msgstr "Bu ürünü sepete eklerken bir hata oluştu"
+
+#: woo-bought-together-premium/index.php:683,
+#: woo-bought-together-premium/index.php:689,
+#: woo-bought-together-premium/index.php:693,
+#: woo-bought-together-premium/index.php:758
+msgid "New price in percent or number"
+msgstr "Yüzde veya sayı olarak yeni fiyat"
+
+#: woo-bought-together-premium/index.php:683,
+#: woo-bought-together-premium/index.php:689,
+#: woo-bought-together-premium/index.php:693,
+#: woo-bought-together-premium/index.php:758
+msgid "Default quantity"
+msgstr "Varsayılan adet"
+
+#: woo-bought-together-premium/index.php:699
+msgid "No results found for \"%s\""
+msgstr "\"%s\" için bir sonuç yok"
+
+#: woo-bought-together-premium/index.php:722
+msgid "settings"
+msgstr "ayarlar"
+
+#: woo-bought-together-premium/index.php:727
+msgid "searching..."
+msgstr "arıyor..."
+
+#: woo-bought-together-premium/index.php:729
+msgid "Type any keyword to search"
+msgstr "Arama için herhangi bir kelime yazın"
+
+#: woo-bought-together-premium/index.php:735
+msgid "Selected"
+msgstr "Seçildi"
+
+#: woo-bought-together-premium/index.php:758
+msgid "Remove"
+msgstr "Kaldır"
+
+#: woo-bought-together-premium/index.php:769
+msgid "Checked all"
+msgstr "Hepsi seçili"
+
+#: woo-bought-together-premium/index.php:773
+msgid "Checked all by default?"
+msgstr "Varsayılan olarak hepsi seçili mi?"
+
+#: woo-bought-together-premium/index.php:777
+msgid "Custom quantity"
+msgstr "Özel adet"
+
+#: woo-bought-together-premium/index.php:781
+msgid "Allow the customer can change the quantity of each product?"
+msgstr "Müşteri her bir ürününü adedini değiştirebilsin mi?"
+
+#: woo-bought-together-premium/index.php:785
+msgid "Limit each item"
+msgstr "Her bir ürünü sınırla"
+
+#: woo-bought-together-premium/index.php:797
+msgid "Before text"
+msgstr "Önce mesajı"
+
+#: woo-bought-together-premium/index.php:806
+msgid "After text"
+msgstr "Sonra mesajı"
+
+#: woo-bought-together-premium/index.php:905
+msgid "This item:"
+msgstr "Bu ürün:"
+
+#: woo-bought-together-premium/index.php:1002
+msgid "Choose"
+msgstr "Seçiniz"
+
+#: woo-bought-together-premium/index.php:1008
+msgid "Clear"
+msgstr "Temizle"
+
+#: woo-bought-together-premium/index.php:1129
+msgid "WPC Bought Together require WooCommerce version 3.0.0 or greater."
+msgstr "WPC,WooCommerce 3.0.0 veya daha yüksek bir versiyona ihtiyaç duyar. "

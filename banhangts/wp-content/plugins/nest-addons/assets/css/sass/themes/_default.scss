@@ -1,0 +1,122 @@
+.owl-carousel{
+    .card-2 , .card-1{
+        margin: 0px;
+    }
+    .product_wrapper{
+        margin: 0px;
+    }
+}
+
+.owl-nav{
+    pointer-events: none;
+    .owl-prev, .owl-next{
+        pointer-events: fill;
+    }
+}
+
+.before_custom_header {
+    .header-bottom{
+        padding: 10px 0px;
+    }
+}
+
+.position_one{
+
+ .owl-carousel {
+    .owl-nav{
+        padding-top: 30px;
+        margin: auto;
+        .owl-prev{
+            margin-right: 8px;
+        }
+        .owl-prev, .owl-next{
+            position: relative;
+            text-align: center;
+            display: inline-block;
+        }
+    }
+ }   
+}
+.position_two{
+
+    .owl-carousel {
+       .owl-nav{
+            position: absolute;
+            top: -80px;
+            right: 0;
+           .owl-prev{
+               margin-right: 8px;
+           }
+           .owl-prev, .owl-next{
+               position: relative;
+               text-align: center;
+               display: inline-block;
+           }
+       }
+    }   
+   }
+
+   .position_three{
+
+    .owl-carousel {
+       .owl-nav{
+        position: absolute;
+        top: -80px;
+        left: 0;
+           .owl-prev{
+               margin-right: 8px;
+           }
+           .owl-prev, .owl-next{
+               position: relative;
+               text-align: center;
+               display: inline-block;
+           }
+       }
+    }   
+   }
+
+   .position_four , .home-slider{
+
+    .owl-carousel {
+       .owl-nav{
+        position: absolute;
+        top: 0px;
+        left: 0;
+        bottom: 0;
+        margin: auto;
+        min-width: unset;
+        width: 100%;
+        height: 40px;
+        pointer-events: none;
+        .owl-prev{
+            left: -45px;
+            pointer-events: fill;
+  
+        }
+        .owl-next{
+            right: -45px;   
+             pointer-events: fill;
+        }
+        .owl-prev, .owl-next{
+            position: absolute;
+            top: 0;
+            bottom: 0;
+     
+        }
+       }
+    }   
+   }
+
+.home-slider{
+    .owl-carousel {
+       .owl-nav{
+       
+        .owl-prev{
+            left: 20px;
+        }
+        .owl-next{
+            right: 20px;
+        }
+    }
+}
+}

@@ -1,0 +1,42 @@
+#cboxOverlay , .yith-quick-view-overlay {
+    background: rgba(255, 255, 255, 0.5) !important;
+  }
+  
+
+
+  #yith-quick-view-modal .yith-wcqv-main{
+    box-shadow: unset!important;
+    background: unset!important;
+    padding: unset!important;
+  }
+  
+  #yith-quick-view-modal.open .yith-wcqv-main{
+    overflow: auto!important;
+  }
+   
+  #yith-quick-view-content{
+    .yith_quick_view_extraclass {
+      box-shadow: var(--box-shadown-2)!important;
+      background: #fff;
+      display: flex;
+      align-items: center;
+      padding: 30px;
+      border: 1px solid var(--border-color);
+      border-radius: 10px;
+    }
+    .product_title{
+      font-size: 30px;
+      line-height: 42px;
+      margin-bottom: 20px;
+    }
+    .woocommerce-product-gallery__image{
+      border: 1px solid var(--border-color);
+      border-radius: 10px;
+    }
+  }
+
+  .yith-woocompare-popup{
+    .woocommerce{
+      background: #000;
+    }
+  }

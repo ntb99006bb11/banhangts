@@ -1,0 +1,97 @@
+/***
+ Theme Name: Nest
+ Description: Grocery, Super Market, eCommerce HTML Template
+ Version: 1.0
+ License: GNU General Public License v2 or later
+ License URI: http://www.gnu.org/licenses/gpl-2.0.html
+==============================
+TABLE CONTENT
+ Import Google Fonts
+ Include Third Party CSS Library
+ GENERAL
+ HEADER
+ Offcanvas Sidebar
+ Search form
+ Main header
+ Mega menu
+ Header layouts
+ Page layouts
+ Pagination
+ Breadcrumb
+ CATEGORY PAGES
+ SINGLE POST
+ Author box
+ comment
+ Post share social
+ WP STYPE
+ Custom amine
+***/
+
+// 1. Configuration and helpers
+@charset "UTF-8"; 
+
+@function unicode($str){
+  @return unquote("\"")+unquote(str-insert($str, "\\", 1))+unquote("\"");
+}
+ 
+ 
+@import
+  '../vendors/normalize',
+  '../plugins/magnific-popups',
+  '../plugins/select2.min',
+  '../plugins/owl',
+  '../plugins/perfect-scrollbar'; 
+
+
+@import 
+ 
+  'abstracts/functions',
+  'abstracts/mixins';
+
+
+// 2. Base stuff
+@import
+  'base/common',
+  'base/animation',
+  'base/typography';
+
+// 3. Components
+@import
+  'components/buttons',
+  'components/form',
+  'components/slider', 
+  'components/card',
+  'components/tabs',
+  'components/misc',
+  'components/banners';
+
+// 4. Page-specific styles
+@import
+  'pages/page',
+  'pages/shop', 
+  'pages/blog',
+  'pages/vendors';
+
+// 5. Themes
+@import
+  'themes/default';
+// 6. Themes
+@import
+  'side-menu/sidemenu';
+// 7. Themes
+@import
+  'yith/compare';
+
+// 8. Layout-related sections
+@import
+'layout/csutommenu',
+'layout/header',
+'layout/navigation',
+'layout/sidebar',
+'layout/footer',
+'layout/spacing',
+'layout/responsive';
+
+ 
+// 8. Themes
+  

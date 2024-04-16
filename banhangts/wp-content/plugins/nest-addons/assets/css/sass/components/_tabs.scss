@@ -1,0 +1,172 @@
+/*COMPONENTS -> TABS*/
+
+ 
+.product-tabs .tab-pane.active , .product-tabs_two  .tab-pane.active {
+    animation: fadeIn ease .9s;
+    -webkit-animation: fadeIn ease .9s;
+    -moz-animation: fadeIn ease .9s;
+    -o-animation: fadeIn ease .9s; 
+    -ms-animation: fadeIn ease .9s;
+}
+.nav-tabs {
+    border: 0;
+    margin-bottom: 4px;
+    .nav-link {
+        background-color: rgb(238, 238, 238);
+        font-size: 15px;
+        margin: 0 10px;
+        margin-left: 10px;
+        color: #444;
+        border-radius: 4px;
+        line-height: 24px;
+        padding: 15px 24px;
+        -webkit-transition: 0.2s;
+        transition: 0.2s;
+        border: 0;
+        border-top-color: currentcolor;
+        border-right-color: currentcolor;
+        border-bottom-color: currentcolor; 
+        border-left-color: currentcolor;
+        font-family: var(--font-heading);
+        font-weight: 600;
+        &.active {
+           color: var(--color-brand);
+           background-color: #fde1bd;
+        }
+        &:hover {
+            color: var(--color-brand);
+            background-color: #fde1bd;
+            transform: translateY(-3px);
+            transition: 0.2s;
+         }
+
+        &:first-child {margin-left: 0 !important;padding-left: 0 !important;}
+    }
+    &.links {
+        .nav-link {           
+            padding: 0 10px;
+            background: none;
+            font-size: 16px;
+            color: var(--color-heading);
+            &:hover, &.active {
+                color: var(--color-brand);
+            }
+
+        }
+       
+    }
+    &.no-border {
+        border: none;
+    }
+    &.right {
+        .nav-item:last-child {
+            .nav-link {
+                margin-right: 0;
+            }
+        }
+    }
+}
+.nav {
+    &.right {
+        justify-content: end;
+    }
+}
+
+.woocommerce-MyAccount-navigation { 
+    ul {
+        padding: 0;
+        margin: 0;
+        li {
+           position: relative;
+           border-radius: 10px;
+           border: 1px solid var(--border-color);
+           border-radius: 10px;
+            a {
+                font-size: var(--font-md);
+                color: var(--color-text);
+                padding: 15px 30px;
+                font-family: var(--font-heading);
+                font-weight: 700;
+                i {
+                    color: var(--color-text);
+                    font-size: var(--font-xl);
+                    opacity: 0.6;
+                }
+                &.active {
+                    color: #fff;
+                    background-color: var(--color-brand);
+                    border-radius: 10px;
+                    i {
+                        color: #fff;
+                    }
+                }
+            }
+            &:not(:last-child) {
+                margin-bottom: 10px;
+            }
+        }
+    }
+}
+
+.tab-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .view-more {
+        font-family: var(--font-heading);
+        font-size: 13px;
+        font-weight: 700;
+        display: flex;
+        border-bottom: 2px solid #cce7d0;
+        margin-bottom: 20px;
+        i {
+            margin-left: 5px;
+            margin-top: 5px;
+            transition: 0.5s;
+        }
+        &:hover {
+            i {
+                transform: translateX(5px);
+                transition: 0.5s;
+            }
+        }
+    }
+}
+
+
+// .product-tabs
+.product-tabs_two .tab-pane{
+   
+    .theme_carousel{
+        animation: fadeIn ease 0.9s;
+        -webkit-animation: fadeIn ease 0.9s;
+        -moz-animation: fadeIn ease 0.9s;
+        -o-animation: fadeIn ease 0.9s;
+        -ms-animation: fadeIn ease 0.9s;
+        &.loading{
+            &::before {
+                position: absolute;
+                content: '';
+                width: 100%;
+                height: 100%;
+                background: rgba(255, 255, 255, 0.95);
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                -webkit-transition: all 0.5s ease-out 0s;
+                transition: all 0.5s ease-out 0s;
+                -moz-transition: all 0.5s ease-out 0s;
+                -ms-transition: all 0.5s ease-out 0s;
+                -o-transition: all 0.5s ease-out 0s;
+                z-index: 5;
+            }
+            &::after{
+                z-index: 10;
+            }
+        }
+      
+    }
+   
+}
+ 
